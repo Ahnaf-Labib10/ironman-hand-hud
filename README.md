@@ -1,6 +1,6 @@
 # ironman-hand-hud
 Real-time hand gesture recognition with Iron Man style HUD using OpenCV &amp; MediaPipe
-# 🦾 Iron Man Hand HUD
+# Iron Man Hand HUD
 
 A real-time hand gesture recognition project with an Iron Man–style animated HUD.
 
